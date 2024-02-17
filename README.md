@@ -22,6 +22,6 @@ CS 专业课的教学质量想必大家有目共睹，无需多言。本仓库�
 
 [数学分析（Ⅲ）的全书习题](https://www.zhihu.com/column/c_1593381605103681536)
 
-编译原理的 lab（未截止，待开源）
+[编译原理的 lab](https://github.com/CS-icez/SysY-Compiler)
 
 操作系统（实验班）的 lab（待开源）
