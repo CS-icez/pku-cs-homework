@@ -25,3 +25,5 @@ CS 专业课的教学质量想必大家有目共睹，无需多言。本仓库�
 [编译原理的 lab](https://github.com/CS-icez/SysY-Compiler)
 
 操作系统（实验班）的 lab（待开源）
+
+[毕业论文的 LaTeX 模板](https://github.com/CS-icez/pkuthss-undergraduate-eecs-2025)
